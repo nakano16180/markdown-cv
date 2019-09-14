@@ -22,10 +22,25 @@ Students of Information Science and Engeneering
 
 ## Education
 
+`2017/4 - now`
+__立命館大学　情報理工学部__
+
+`2014/4-2016/3`
+__大阪府立山田高等学校__
+
+
 
 
 ## Awards
 
+`2019/8`
+RoboCup JapanOpen 2019 @Home Education Challenge　2位
+
+`2019/7`
+RoboCup 2019 Sydney @Home Education Challenge　2位
+
+`2018/5`
+JapanOpen2018 @Home education 3位
 
 
 ## Publications
