@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nakano Kaito's CV
 ---
-# Nakano Kaito
-Students of Information Science and Engeneering
+# 中野海人
 
 <div id="webaddress">
 <a href="nakano16180@gmail.com">nakano16180@gmail.com</a>
@@ -12,12 +11,9 @@ Students of Information Science and Engeneering
 
 ## Currently
 
+立命館大学情報理工学部 3回生
 
-### Specialized in
-
-
-### Research interests
-
+創発システム研究室
 
 
 ## Education
@@ -43,20 +39,9 @@ RoboCup 2019 Sydney @Home Education Challenge　2位
 JapanOpen2018 @Home education 3位
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-
-### Patents
-
-
-## Occupation
-
-
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sep 2019 -->
 
 
